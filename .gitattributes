@@ -1,0 +1,8 @@
+*.emb filter=lfs diff=lfs merge=lfs -text
+data/tmall/tmall.txt filter=lfs diff=lfs merge=lfs -text
+res/dblp/tne_epoch100_lr0.02_his5_neg5_eps0.4.emb filter=lfs diff=lfs merge=lfs -text
+res/dblp/tne_epoch50_lr0.01_his5_neg5.emb filter=lfs diff=lfs merge=lfs -text
+res/dblp/tne_epoch50_lr0.01_his5_neg5_eps0.4.emb filter=lfs diff=lfs merge=lfs -text
+res/dblp/tne_epoch50_lr0.02_his5_neg5_eps0.4.emb filter=lfs diff=lfs merge=lfs -text
+res/dblp/tne_epoch100_lr0.01_his5_neg5_eps0.4.emb filter=lfs diff=lfs merge=lfs -text
+res/tmall/tne_epoch200_lr0.01_his2_neg5.emb filter=lfs diff=lfs merge=lfs -text
