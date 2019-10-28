@@ -1,5 +1,5 @@
 # MMDNE
-Source code for CIKM 2019 paper [**Temporal Network Embedding with Micro- and Macro-dynamics**"](https://arxiv.org/abs/1909.04246).
+Source code for CIKM 2019 paper ["**Temporal Network Embedding with Micro- and Macro-dynamics**"](https://arxiv.org/abs/1909.04246).
 
 # Requirements
 
