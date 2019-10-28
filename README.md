@@ -12,7 +12,7 @@ Source code for CIKM 2019 paper ["**Temporal Network Embedding with Micro- and M
 # Description
 
 ```
-RHINE/
+MMDNE/
 ├── code
 │   ├── DataHelper.py: load and process data for MMDNE
 │   ├── Evaluation.py: evaluate the performance of MMDNE (e.g., classification)
@@ -38,7 +38,7 @@ python MMDNE.py
 # Reference
 
 ```
-@inproceedings{Yuanfu2019RHINE,
+@inproceedings{Yuanfu2019MMDNE,
   title={Temporal Network Embedding with Micro- and Macro-dynamics},
   author={Yuanfu Lu, Xiao Wang, Chuan Shi, Philip S. Yu, Yanfang Ye.}
   booktitle={Proceedings of CIKM},
