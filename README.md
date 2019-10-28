@@ -1,5 +1,5 @@
 # MMDNE
-Source code for CIKM 2019 paper "**Temporal Network Embedding with Micro- and Macro-dynamics**"
+Source code for CIKM 2019 paper [**Temporal Network Embedding with Micro- and Macro-dynamics**"](https://arxiv.org/abs/1909.04246).
 
 # Requirements
 
@@ -14,8 +14,8 @@ Source code for CIKM 2019 paper "**Temporal Network Embedding with Micro- and Ma
 ```
 RHINE/
 ├── code
-│   ├── DataHelper.py: load and process data for $\text{M^2DNE}$
-│   ├── Evaluation.py: evaluate the performance of $\text{M^2DNE}$ (e.g., classification)
+│   ├── DataHelper.py: load and process data for MMDNE
+│   ├── Evaluation.py: evaluate the performance of MMDNE (e.g., classification)
 │   └── MMDNE.py: model architecture and training
 ├── data
 │   └── dblp
@@ -24,6 +24,7 @@ RHINE/
 │   └── Tmall
 │       ├── tmall.txt: each line is a temporal edge with the format (node1 \ tnode2 \t timestamp)
 │       ├── node2label.txt: node label data with the format (node_name, label)
+│   └── Eucore: will be available soon!
 └── res
 │    └── dblp
 │        └──
