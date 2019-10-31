@@ -19,10 +19,10 @@ MMDNE/
 │   └── MMDNE.py: model architecture and training
 ├── data
 │   └── dblp
-│       ├── dblp.txt: each line is a temporal edge with the format (node1 \ tnode2 \t timestamp)
+│       ├── dblp.txt: each line is a temporal edge with the format (node1 \t node2 \t timestamp)
 │       ├── node2label.txt: node label data with the format (node_name, label)
 │   └── Tmall
-│       ├── tmall.txt: each line is a temporal edge with the format (node1 \ tnode2 \t timestamp)
+│       ├── tmall.txt: each line is a temporal edge with the format (node1 \t node2 \t timestamp)
 │       ├── node2label.txt: node label data with the format (node_name, label)
 │   └── Eucore: will be available soon!
 └── res
