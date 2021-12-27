@@ -11,7 +11,7 @@ Source code for CIKM 2019 paper ["**Temporal Network Embedding with Micro- and M
 
 # Description
 
-The datasets are also avaliable at [Google Drive](https://drive.google.com/drive/folders/1Al9CfTn3BEu-dmE0dqMJfKwGOzY4frMc?usp=sharing).
+The datasets are also available at [Google Drive](https://drive.google.com/drive/folders/1Al9CfTn3BEu-dmE0dqMJfKwGOzY4frMc?usp=sharing).
 
 
 ```
